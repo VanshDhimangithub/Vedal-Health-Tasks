@@ -1,0 +1,6 @@
+com\bfhl\task\dto\WebhookResponse.class
+com\bfhl\task\BfhlJavaTaskApplication.class
+com\bfhl\task\config\RestTemplateConfig.class
+com\bfhl\task\dto\WebhookRequest.class
+com\bfhl\task\runner\StartupRunner.class
+com\bfhl\task\dto\FinalQueryRequest.class
